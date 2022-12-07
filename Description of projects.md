@@ -1,1 +1,1 @@
-This is a folder containing some of my projects. It includes a work in progress neural network that predicts heart failure, a descriptive statistics GUI I developed, and a project for the Texas A&M Humana Mays Healthcare Analytics case competition.
+#This is a folder containing some of my projects. It includes a work in progress neural network that predicts heart failure, a descriptive statistics GUI I developed, and a project for the Texas A&M Humana Mays Healthcare Analytics case competition.
